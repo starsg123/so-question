@@ -1,4 +1,4 @@
-# so-question
+# Stack Overflow Question
 
 Upload your Stack Overflow Question here as a screenshot.
 
